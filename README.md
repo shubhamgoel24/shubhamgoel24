@@ -24,7 +24,7 @@ Hi,I'm Shubham Goel🙌, a Coder , Web Developer, Tech Enthusiast. Apart from th
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Back-End Web Development.
+- 🌱 I’m currently learning React.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📝[Portfolio](https://shubhamgoel24.github.io)
